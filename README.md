@@ -35,6 +35,7 @@ level, and a live web application (CheckPox) that anyone can use in a browser.
 <p align="center">
   <img src="assets/poxnetx_architecture.jpg" alt="PoxNetX end-to-end architecture animation" width="800">
 </p>
+
 ## Pipeline at a Glance
 
 1. **Raw Data Collection**: 1,875 images pooled from multiple online sources across five classes.
