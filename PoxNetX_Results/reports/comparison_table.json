@@ -1,0 +1,62 @@
+{
+  "Accuracy":{
+    "MobileNetV2":0.9368,
+    "EfficientNetB0":0.9176,
+    "EfficientNetB1":0.9291,
+    "Ensemble":0.9406
+  },
+  "Balanced Acc":{
+    "MobileNetV2":0.9356,
+    "EfficientNetB0":0.9174,
+    "EfficientNetB1":0.9285,
+    "Ensemble":0.9404
+  },
+  "Precision (macro)":{
+    "MobileNetV2":0.9381,
+    "EfficientNetB0":0.9172,
+    "EfficientNetB1":0.9312,
+    "Ensemble":0.9419
+  },
+  "Recall (macro)":{
+    "MobileNetV2":0.9356,
+    "EfficientNetB0":0.9174,
+    "EfficientNetB1":0.9285,
+    "Ensemble":0.9404
+  },
+  "F1 (macro)":{
+    "MobileNetV2":0.9367,
+    "EfficientNetB0":0.9168,
+    "EfficientNetB1":0.9293,
+    "Ensemble":0.9409
+  },
+  "Specificity":{
+    "MobileNetV2":0.9841,
+    "EfficientNetB0":0.9793,
+    "EfficientNetB1":0.9823,
+    "Ensemble":0.9852
+  },
+  "AUC (macro)":{
+    "MobileNetV2":0.9879,
+    "EfficientNetB0":0.9876,
+    "EfficientNetB1":0.9887,
+    "Ensemble":0.9911
+  },
+  "AUC (micro)":{
+    "MobileNetV2":0.9896,
+    "EfficientNetB0":0.9897,
+    "EfficientNetB1":0.9902,
+    "Ensemble":0.993
+  },
+  "MCC":{
+    "MobileNetV2":0.9208,
+    "EfficientNetB0":0.8969,
+    "EfficientNetB1":0.9114,
+    "Ensemble":0.9257
+  },
+  "Cohen Kappa":{
+    "MobileNetV2":0.9207,
+    "EfficientNetB0":0.8967,
+    "EfficientNetB1":0.9111,
+    "Ensemble":0.9255
+  }
+}

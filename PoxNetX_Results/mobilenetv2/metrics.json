@@ -1,0 +1,12 @@
+{
+  "model": "MobileNetV2",
+  "accuracy": 0.9101338432122371,
+  "balanced_accuracy": 0.9096325679860117,
+  "f1_weighted": 0.9103323895438639,
+  "f1_macro": 0.9108076482164892,
+  "precision_weighted": 0.911469159407974,
+  "recall_weighted": 0.9101338432122371,
+  "cohen_kappa": 0.8872756955558715,
+  "mcc": 0.8875079047100631,
+  "macro_auc": 0.9863428564765077
+}

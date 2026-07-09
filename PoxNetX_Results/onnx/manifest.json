@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "Chikenpox",
+    "Cowpox",
+    "Measles",
+    "MonkeyPox",
+    "Normal"
+  ],
+  "img_size": 224,
+  "normalize": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "models": {
+    "MobileNetV2": "MobileNetV2.onnx",
+    "EfficientNetB0": "EfficientNetB0.onnx",
+    "EfficientNetB1": "EfficientNetB1.onnx"
+  },
+  "ensemble": "majority_vote (or mean of softmax probs)"
+}

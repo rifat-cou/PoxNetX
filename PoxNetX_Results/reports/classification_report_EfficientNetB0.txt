@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   Chikenpox     0.8913    0.8119    0.8497       101
+      Cowpox     0.9438    0.9767    0.9600        86
+     Measles     0.9434    0.9434    0.9434       106
+   MonkeyPox     0.8636    0.8879    0.8756       107
+      Normal     0.9440    0.9672    0.9555       122
+
+    accuracy                         0.9176       522
+   macro avg     0.9172    0.9174    0.9168       522
+weighted avg     0.9172    0.9176    0.9169       522

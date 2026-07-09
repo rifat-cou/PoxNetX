@@ -1,0 +1,12 @@
+{
+  "model": "EfficientNetB1",
+  "accuracy": 0.9273422562141491,
+  "balanced_accuracy": 0.9274305381900204,
+  "f1_weighted": 0.926694879938182,
+  "f1_macro": 0.9268826389656055,
+  "precision_weighted": 0.9266082168977434,
+  "recall_weighted": 0.9273422562141491,
+  "cohen_kappa": 0.9088929535754725,
+  "mcc": 0.9090346681823575,
+  "macro_auc": 0.9868535903896601
+}

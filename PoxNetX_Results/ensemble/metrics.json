@@ -1,0 +1,12 @@
+{
+  "model": "Majority Vote Ensemble",
+  "accuracy": 0.9330783938814532,
+  "balanced_accuracy": 0.9324434031277015,
+  "f1_weighted": 0.9329762729301013,
+  "f1_macro": 0.9329502487488368,
+  "precision_weighted": 0.9335597972929767,
+  "recall_weighted": 0.9330783938814532,
+  "cohen_kappa": 0.916068685664504,
+  "mcc": 0.9162410394043401,
+  "macro_auc": 0.9924844019326777
+}
