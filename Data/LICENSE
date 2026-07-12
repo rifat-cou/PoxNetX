@@ -1,0 +1,44 @@
+PoxNetX Data Directory — License Notice
+=========================================
+
+This directory contains two categories of content, each governed by a
+different license. Please read both sections before reuse.
+
+1. DATASET (Mendeley Data release)
+-----------------------------------
+The DermGAN-DDPM synthetic image dataset associated with PoxNetX, published
+on Mendeley Data (DOI: 10.17632/p4bst76r7w.1), is distributed under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0).
+
+You are free to:
+  - Share:   copy and redistribute the material in any medium or format
+  - Adapt:   remix, transform, and build upon the material
+
+Under the following terms:
+  - Attribution:     You must give appropriate credit, provide a link to
+                      the license, and indicate if changes were made.
+  - NonCommercial:    You may not use the material for commercial purposes.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+
+Note: this repository does not re-host the dataset's image files. Access
+the dataset directly via Mendeley Data at the DOI above.
+
+2. SOURCE CODE (generation_pipeline/)
+--------------------------------------
+The notebooks and scripts implementing the DermGAN-DDPM autoencoder, latent
+DDPM, and Pix2Pix refiner stages are covered by the PoxNetX repository's
+root-level code license.
+
+  [Insert your repository's code license here, e.g., MIT License, and
+   ensure a matching LICENSE file exists at the repository root.]
+
+3. THIRD-PARTY SOURCE DATASETS
+--------------------------------
+Images used to train the generative pipeline were drawn from 16 external
+source datasets, each carrying its own license. These sources are listed,
+with their individual license terms and access links, in
+primary_sources.md. This repository does not redistribute any original
+third-party source images. One source (Ali et al., 2024) is itself
+licensed CC BY-NC 4.0 upstream; its imagery is referenced by link only.

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "PoxNetX"
+version: "V1"
+authors:
+  - family-names: "Oliullah"
+    given-names: "Khondokar"
+  - family-names: "Marof"
+    given-names: "Mohammad Rifatul Islam"
+  - family-names: "Annan"
+    given-names: "Syed Ashrafuzaman"
+identifiers:
+  - type: doi
+    value: "10.17632/p4bst76r7w.1"
+repository: "https://data.mendeley.com/datasets/p4bst76r7w/1"
+url: "https://data.mendeley.com/datasets/p4bst76r7w/1"
+license: "CC-BY-NC-4.0"
