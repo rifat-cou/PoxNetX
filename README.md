@@ -43,7 +43,7 @@ level, and a live web application (CheckPox) that anyone can use in a browser.
    creation, targeted 30x augmentation for the most underrepresented classes (Cowpox, Measles),
    and an 80/20 train/validation split.
 3. **DermGAN-DDPM Refiner**: a four-stage hybrid generative pipeline (convolutional autoencoder,
-   latent DDPM, Pix2Pix refiner) producing 15,666 synthetic images across all five classes.
+   latent DDPM, Pix2Pix refiner) producing 15,666 synthetic images across all five classes. [`Data Generation Model`](Data/generation_pipeline)
 4. **Transfer Learning Sweep**: 20 architectures across six CNN families benchmarked on the
    augmented dataset.
 5. **EL03 Ensemble**: MobileNetV2, EfficientNetB0, and EfficientNetB1 combined via hard majority
@@ -81,7 +81,7 @@ see `ensemble_learning/README.md` for why that distinction matters when reproduc
 ### Supervisor  
 **Khondokar Oliullah**
 Lecturer, Department of ICT, Comilla University
-🔗 [Website]([https://github.com/rifat-cou](https://sites.google.com/view/khondokar-oliullah/home))
+🔗 [Website](https://sites.google.com/view/khondokar-oliullah/home)
 
 ### Team Members  
 **Mohammad Rifatul Islam Marof**
