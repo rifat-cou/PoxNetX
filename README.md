@@ -69,8 +69,25 @@ see `ensemble_learning/README.md` for why that distinction matters when reproduc
 
 ## Repository Structure
 .  
-├── assets **(All assets for repository)**  
-├── Documents **(Thesis documets)**  
-├── Ensemble Learning **(All Ensemble Configurations)**  
-├── PoxNetX_Results **(Results of PoxNetX Model)**  
-└── Transfer Learning **(All Transfer Learning Models)**  
+├── assets # All assets for repository  
+├── Data # Synthetic data generation  
+├── Documents # Thesis documents  
+├── Ensemble Learning # All Ensemble Configurations  
+├── PoxNetX_Results # Results of PoxNetX Model  
+└── Transfer Learning # All Transfer Learning Models  
+
+
+## 👤 Authors
+### Supervisor  
+**Khondokar Oliullah**
+Lecturer, Department of ICT, Comilla University
+🔗 [Website]([https://github.com/rifat-cou](https://sites.google.com/view/khondokar-oliullah/home))
+
+### Team Members  
+**Mohammad Rifatul Islam Marof**
+Department of ICT, Comilla University
+🔗 [GitHub](https://github.com/rifat-cou)  
+
+**Syed Ashrafuzaman Annan**
+Department of ICT, Comilla University
+
