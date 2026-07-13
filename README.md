@@ -50,7 +50,7 @@ level, and a live web application (CheckPox) that anyone can use in a browser.
    voting, trained on the unaugmented, curated `Dataset_Raw`.
 6. **Dual XAI**: Grad-CAM and LIME applied at the ensemble level, not per individual model.
 7. **CheckPox Web Application**: FastAPI + ONNX Runtime + MySQL + Groq/LLaMA 3, deployed on
-   Microsoft Azure.
+   Microsoft Azure. ['See CheckPox'}(https://github.com/rifat-cou/CheckPox)
 
 ## Key Results
 
